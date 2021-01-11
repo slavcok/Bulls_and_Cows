@@ -1,0 +1,18 @@
+type: code
+files:
+- name: src/Main.java
+  visible: true
+  text: // write your class here
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/2985#comment
+status: Failed
+feedback:
+  message: |
+    Compilation error
+    Main.java:32: error: incompatible types: int cannot be converted to String
+            final Book book = new Book(title, yearOfPublishing, authors);
+                                              ^
+    Note: Some messages have been simplified; recompile with -Xdiags:verbose to get full output
+    1 error
+  time: Fri, 01 Jan 2021 19:08:20 UTC
+record: -1
